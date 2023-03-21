@@ -1,0 +1,15 @@
+fastapi==0.78.0
+matplotlib==3.5.1
+numpy==1.21.5
+optuna==2.10.0
+pandas==1.4.2
+python-dotenv>=0.5.1
+pip==21.2.2
+pydantic==1.9.1
+requests==2.27.1
+schedule==1.1.0
+scikit-learn==1.0.2
+scipy==1.7.3
+seaborn==0.11.2
+uvicorn==0.17.6
+xgboost==1.6.1
