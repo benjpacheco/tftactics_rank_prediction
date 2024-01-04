@@ -82,7 +82,7 @@ Some questions that I wanted to answer using machine learning:
 
 Evaluating the models:
 
-* Accuracy, f1-score, Mean Absolute Error
+* Accuracy, f1-score
 * AUCROC for multiclass classification
 
 After some evaluation of the basic models I will fine tune the models with hyperparameters then select the best performer:
@@ -93,5 +93,5 @@ After some evaluation of the basic models I will fine tune the models with hyper
 
 And finally re-evaluate the best forming model:
 
-* Accuracy, f1-score, Mean Absolute Error
+* Accuracy, f1-score
 * AUCROC for multiclass classification
